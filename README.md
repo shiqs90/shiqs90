@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikha
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning DevOps,AWS
-- 💞️ I’m looking to collaborate on Cloud,Jenkins,Java
+- 🌱 I’m currently working on DevOps,AWS
+- 💞️ I’m looking to collaborate on Cloud,Jenkins,AWS
 - 📫 Reach me on email : shikha2531@gmail.com
 
 <!---
