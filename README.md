@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikha
 - 👀 I’m interested in software development
-- 🌱 I’m currently working on DevOps,AWS, AI
-- 💞️ I’m looking to collaborate on Cloud,Jenkins,AWS,Docker, Kubernetes,Terraform
+- 🌱 I’m currently working on DevOps,Cloud and AI
+- 💞️ I’m looking to collaborate on Cloud,Jenkins,Docker,Kubernetes,AI agents, Terraform
 - 📫 Reach me on email : shiqs90@gmail.com
 
 <!---
