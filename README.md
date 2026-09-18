@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shikha
-- 👀 I’m interested in software development
+- 👀 I’m interested in AI Platform engineering.
 - 🌱 I’m currently working on AI Platform Engineering, MLOps, LLMOPs
 - 💞️ I’m looking to collaborate on AI agents, Cloud, Kubernetes, Terraform.
 - 📫 Reach me on email : shiqs90@gmail.com
